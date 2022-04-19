@@ -2,11 +2,11 @@
 - 👀 I’m interested in ...
  alot of stuff
 - 🌱 I’m currently learning ...
-- everything
+ everything
 - 💞️ I’m looking to collaborate on ...
-- nothing
+ nothing
 - 📫 How to reach me ...
-- you can't
+ you can't
 
 <!---
 mlevirecon/mlevirecon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
